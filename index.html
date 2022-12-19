@@ -161,6 +161,8 @@
     <p id="df"></p>
 
     <py-script>
+    import datetime as dt
+    pyscript.write('today', dt.date.today().strftime('%A %B %d, %Y'))
     import sqlite3
     from pyodide.http import open_url
     conn = sqlite3.connect(':memory:')
