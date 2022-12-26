@@ -15,4 +15,5 @@
 * __Beta version__ https://loczylevi.github.io/period_object_orientalt_pyscript/
 * __Gamma version__ https://loczylevi.github.io/sqlite_period/
 * __Delta version__ https://loczylevi.github.io/periodus_kereso_motor/ 
+* __Epszílon version__ https://loczylevi.github.io/kemiai_elemek_img/
 
